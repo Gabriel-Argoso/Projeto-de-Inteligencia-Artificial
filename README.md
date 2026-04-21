@@ -1,1 +1,1 @@
-**PROJETO DE IA**
+**Projeto de IA**
