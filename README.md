@@ -1,9 +1,6 @@
-```markdown
 # 🚗 Car Price Prediction Model | Projeto de Inteligência Artificial
 
 Este repositório contém um projeto de ponta a ponta de Inteligência Artificial voltado para a **previsão de preços de automóveis**. Utilizando técnicas de Aprendizado de Máquina Supervisionado e Engenharia de Recursos (*Feature Engineering*), o modelo foi desenvolvido para simular um cenário real de negócios, auxiliando na tomada de decisões estratégicas de precificação automotiva com base em dados de mercado.
-
-Ideal para recrutadores e profissionais de tecnologia que buscam avaliar minhas competências em **Ciência de Dados, Machine Learning e Engenharia de Software**.
 
 ---
 
