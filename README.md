@@ -18,7 +18,7 @@ Para garantir a precisão e confiabilidade das previsões, o modelo foi validado
 * **Linguagem:** Python 3.10+
 * **Machine Learning:** Scikit-Learn (`DecisionTreeRegressor`)
 * **Manipulação e Análise de Dados:** Pandas, NumPy
-* **Conceitos de IA aplicados:** Aprendizado Supervisionado, Modelos de Regressão, Seleção de Recursos (*Feature Selection*), Avaliação de Métricas (MAE, $R^2$).
+* **Conceitos de IA aplicados:** Aprendizado Supervisionado, Modelos de Regressão, Seleção de Recursos, Avaliação de Métricas (MAE, $R^2$).
 
 ---
 
