@@ -30,13 +30,13 @@ O objetivo desta frente é estimar o valor comercial de veículos automotores co
 * **Árvore de Decisão:**
 * **R² (Coeficiente de Determinação):** 95.81%
 * **MAE (Erro Médio Absoluto):** 2066.42
--
+--
 * **KNN Regressão:**
 * **MAE:** 2823
--
+--
 * **Regressão Linear Múltipla:**
 * **MAE:** 3249
--
+--
 * **SVM:**
 * **MAE:** 10152
 
@@ -63,7 +63,7 @@ Esta frente visa identificar transações financeiras fraudulentas em operaçõe
 
 * **Redes Neurais:**
 * **Precisão (Classe Fraude):** 99,3%
--
+--
 * **Naive Bayes:**
 * **Precisão (Classe Fraude):** 94,8%
 
